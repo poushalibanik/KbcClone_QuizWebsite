@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KbcClone_QuizWebsite/static/css/main.70d705b4.css",
+    "main.js": "/KbcClone_QuizWebsite/static/js/main.a0736c74.js",
+    "static/js/845.748b8401.chunk.js": "/KbcClone_QuizWebsite/static/js/845.748b8401.chunk.js",
+    "static/media/bg.jpg": "/KbcClone_QuizWebsite/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/KbcClone_QuizWebsite/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/KbcClone_QuizWebsite/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/KbcClone_QuizWebsite/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/KbcClone_QuizWebsite/index.html",
+    "main.70d705b4.css.map": "/KbcClone_QuizWebsite/static/css/main.70d705b4.css.map",
+    "main.a0736c74.js.map": "/KbcClone_QuizWebsite/static/js/main.a0736c74.js.map",
+    "845.748b8401.chunk.js.map": "/KbcClone_QuizWebsite/static/js/845.748b8401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d705b4.css",
+    "static/js/main.a0736c74.js"
+  ]
+}
